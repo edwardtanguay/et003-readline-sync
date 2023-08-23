@@ -10,4 +10,4 @@ const currentYearNum = Number(currentYear);
 const bornYearNum = Number(bornYear);
 const agoYears = currentYearNum - bornYearNum; 
 
-console.log(`Hello! My name is ${userName}. I was born ${agoYears} years ago in London. Now I live in Berlin.`);
+console.log(`Hello! My name is ${userName}. I was born ${agoYears} years ago in ${bornCity}. Now I live in ${currentCity}.`);
