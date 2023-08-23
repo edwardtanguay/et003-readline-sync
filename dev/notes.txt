@@ -1,0 +1,9 @@
+- x import readline-sync
+- x make a simple example of readline-sync with CommonJS modules (require)
+- x set up ES6 modules (import/export)
+- x make a simple example of readline-sync to test with ES6
+
+- .. do the exerciseo
+
+
+

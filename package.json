@@ -1,0 +1,13 @@
+{
+  "name": "our-readline-sync-project",
+  "version": "1.0.0",
+  "description": "This is a test of readline-sync.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Edward",
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
